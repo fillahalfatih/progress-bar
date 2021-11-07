@@ -18,5 +18,3 @@ this is a simple static web with progress bar animation built using vanilla java
 ![progress-bar-animation](https://github.com/fillahalfatih/progress-bar/blob/main/live-version-img/Screenshot.png "progress bar with javascript")
 
 ![progress-bar-animation](https://github.com/fillahalfatih/progress-bar/blob/main/live-version-img/Progress-bar-Animation-Javascript.png "progress bar with javascript")
-
-## Tutorial
